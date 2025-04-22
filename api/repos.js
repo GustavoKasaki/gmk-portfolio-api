@@ -82,7 +82,7 @@ const fetchDependencies = async (repoName, branch) => {
 };
 
 const allowedOrigins = [
-  "https://gmk-portfolio.vercel.app/",
+  "https://gmk-portfolio.vercel.app",
   "http://localhost:5173",
 ];
 
